@@ -1,2 +1,4 @@
-echo 'Project 2'
-date
+#!bin/bash
+echo 'GIT PROJECT'
+echo 'ADDED ANOTHER LINE IN PROEJCT'
+touch file.txt
